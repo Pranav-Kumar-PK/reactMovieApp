@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Grechen+Fuemen&display=swap");
+
+.navbar-brand {
+  font-family: "Grechen Fuemen", cursive;
+  font-size: 50px;
+  text-shadow: -1px 3px 4px #df12cc;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+.nav-item {
+  margin-right: 2rem;
+  color: #ffccd5;
+}
+.btn {
+  text-decoration: none;
+  color: #ffccd5;
+  font-size: 18px;
+}
+.btn:hover {
+  color: #f05975;
+}
+.active {
+  color: #f05975;
+}
+.btn:focus {
+  box-shadow: none;
+}
